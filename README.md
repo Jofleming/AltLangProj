@@ -34,9 +34,20 @@ List out 3 libraries you used from your programming language (if applicable) and
 Answer the following questions (and provide a corresponding screen showing output answering them):
 
 What company (oem) has the highest average weight of the phone body?
+    = Company with highest average weight: Lenovo with average weight 655
 
 Was there any phones that were announced in one year and released in another? What are they? Give me the oem and models.
+    = Mitac MIO Leap G50 was announced in 2008 and released in 2009
+Mitac MIO Leap K1 was announced in 2008 and released in 2009
+Motorola XT701 was announced in 2009 and released in 2010
+Sharp AQUOS  941SH was announced in 2009 and released in 2010
+Sharp 940SH was announced in 2009 and released in 2010
 
 How many phones have only one feature sensor?
+    = Number of phones with only one feature sensor: 731
 
 What year had the most phones launched in any year later than 1999? 
+    = Year with the most phones launched after 1999: 2019 with 251 launches
+
+
+
