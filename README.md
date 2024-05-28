@@ -26,10 +26,9 @@ How your programming language chosen handles: object-oriented programming, file 
 
 List out 3 libraries you used from your programming language (if applicable) and explain what they are, why you chose them and what you used them for.
     * Regex: Was used to parse the cells for only the information I wanted. This was to clean the data.
-    * Ordered Float
     * `std::fs::File` to be able to access the file.
     * `std::io::{BufReader, BufRead, Result}` to be able to read the file.
-    * `std::collections::HashSet` to use the HashSet to check for duplicates.
+    * `std::collections::{HashSet, HashMap}` used to check for duplicates and to store data.
 
 Answer the following questions (and provide a corresponding screen showing output answering them):
 
