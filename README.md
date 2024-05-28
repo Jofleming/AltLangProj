@@ -1,5 +1,11 @@
 # AltLangProj
 
+## TO RUN
+1. Clone the repo
+2. Navigate to repository locally.
+3. Run `cargo build`
+4. Run `cargo run`
+
 ### Which programming language and version did you pick?
     * I picked Rust. Though I really wish I hadn't.
 
